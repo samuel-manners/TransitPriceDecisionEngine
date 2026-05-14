@@ -1,15 +1,15 @@
-# Rail Price Decision Engine
+# Transit Price Decision Engine
 
-This project is a demo of how rail prices could be managed nationally on a tap and go system to produce the best prices for people. It is modelled of the UK's railway networks however is could be utilised for any. The concept of the API is to produce a price band based on the level of rail taken. It is also designed to accept multimodal transport and enable devolved authories to set their own prices.
+A backend API concept for what could function as a centralised methodology of managing public transport, bringing all forms of transport together under one application.
 
 ---
 
 ## Planned Features
 
 * Separate journeys into Local, Regional & National
-* Seperate public transport journeys by road (Bus, Coach & Tram), Rail (conventional & High Speed), Water (Ferries & Powerboats) & 
-* Enable trains to be included as a multi-modal transport scheme for devolved authorities (e.g. if a bus route and train take a passenger to the same location, a cap can apply to both)
-* Apply discounts such as railcards
+* Seperate journeys by Private (Taxi's and private shuttle buses), Road (Bus, Coach & Tram), Rail (conventional & High Speed), Water (Ferries & Powerboats) and Air.
+* Enable multi-modal journey options to be demonstrated easily making public transit work as one as well as showing total pricing for all services and a breakdown
+* Apply relevent discounts such as rail and coach cards as well as potential rewards program integration
 * 
 
 ---
